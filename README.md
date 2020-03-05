@@ -67,3 +67,6 @@ List of themes:
 	mklink /J "awblack" "awthemes"
 	mklink /J "awwinxpblue" "awthemes"
 	```
+## License
+
+Awthemes is distributed under the free [zlib/libpng license](https://github.com/0gdump/ttk-awthemes-patched/blob/master/LICENSE). Patches are also licensed under zlib/libpng.
